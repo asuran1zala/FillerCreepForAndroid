@@ -1,4 +1,6 @@
-// some comment
+/*
+ * new style comment
+ */
 
 public class testandroid
 {
