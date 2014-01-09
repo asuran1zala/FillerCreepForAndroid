@@ -4,5 +4,5 @@
 
 public class testandroid
 {
-
+  private void Integer integer;
 }
